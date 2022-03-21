@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdurgadas" target="blank"><img src="https://img.shields.io/twitter/follow/imdurgadas?logo=twitter&style=for-the-badge" alt="imdurgadas" /></a> </p>
 
-- 📝 I regularly write articles on [https://durgadas.in](https://durgadas.in)
+- 📝 I regularly write articles on [https://tech.durgadas.in](https://tech.durgadas.in)
 
 - 💬 Ask me about **Architecture, Microservices, DevOps, Kubernetes, OpenShift, Security**
 
