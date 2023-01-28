@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/imdurgadas" target="blank"><img src="https://img.shields.io/twitter/follow/imdurgadas?logo=twitter&style=for-the-badge" alt="imdurgadas" /></a> </p>
 
-- 📝 I regularly write articles on [https://tech.durgadas.in](https://tech.durgadas.in)
+- 📝 I regularly write articles on [https://durgadas.in](https://durgadas.in)
 
-- 💬 Ask me about **Architecture, Microservices, DevOps, Kubernetes, OpenShift, Security**
+- 💬 Ask me about **Architecture, Microservices, Serverless, Cloud, DevOps, Kubernetes, OpenShift, Security**
 
-- 📫 How to reach me **imdurgadas@gmail.com**
+- 📫 How to reach me **mail@durgadas.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
