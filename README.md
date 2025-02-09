@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgadas Kamath</h1>
-<h3 align="center">Senior Architect , Persistent Systems AWS Community Builder AWS Solutions Architect Opensource Contributor Speaker</h3>
+<h3 align="center">Principal Architect , Persistent Systems AWS Community Builder AWS Solutions Architect Opensource Contributor Speaker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdurgadas&label=Profile%20views&color=0e75b6&style=flat" alt="imdurgadas" /> </p>
 
